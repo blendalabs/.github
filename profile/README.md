@@ -1,8 +1,8 @@
 # 🎬 Blenda Labs
 
-At **Blenda Labs**, we’re rethinking how movies are made — **combining cutting-edge AI tools with creative talent** to produce high-quality, cost-effective video at scale.
+At **Blenda Labs**, we're rethinking how movies are made---combining cutting-edge **AI tools** with the best **creative talent** to produce jaw-dropping video on famous IP such as [Pippi Långstrump](https://www.youtube.com/watch?v=o0Bs5lOrunI) and [Sunes värld](https://www.youtube.com/shorts/AeEXveZV_f0).
 
-We’re **led by serial entrepreneurs** and **backed by some of Sweden’s top investors**. We move fast, dream big, and aim for the moon.
+We’re led by serial entrepreneurs and backed by some of Sweden's top investors. We move fast, dream big, and aim for the moon---this is a new media empire in the making.
 
 * * * * *
 
